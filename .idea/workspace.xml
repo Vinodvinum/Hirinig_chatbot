@@ -5,27 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ffee86f-e0de-4ad2-9df9-9f039981a274" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/chatbot.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chat_history.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chat_history.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chat_history.dir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/f1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python files/a1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python files/a2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python files/a3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python files/af4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python files/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python files/openai_integration.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python files/prompts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python files/test_env.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/talentscout-chatbot/f1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talentscout-chatbot" beforeDir="false" afterPath="$PROJECT_DIR$/talentscout-chatbot" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +44,11 @@
     "last_opened_file_path": "E:/vin/Vinexperiments/chatbot/talentscout-chatbot"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\vin\Vinexperiments\chatbot\talentscout-chatbot" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="chatbot" />
